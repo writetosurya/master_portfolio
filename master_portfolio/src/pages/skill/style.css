@@ -1,0 +1,28 @@
+.Skill-header {
+    background-color:#090909;
+    color: white;
+  }
+  
+  .Hamburger-menu{
+    min-height: 7vh; 
+  }
+  
+  .Skill-main {
+    min-height: 88vh; 
+   }
+  
+  .Skill-left{
+    /* margin: auto;     */
+    display: flex;
+  }
+  
+  .Skill-right{
+    margin: auto;    
+    display: block;
+  }
+  
+  .Skill-footer {
+    min-height: 5vh; 
+  }  
+  
+  

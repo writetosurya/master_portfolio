@@ -1,0 +1,28 @@
+.Certification-header {
+    background-color:#090909;
+    color: white;
+  }
+  
+  .Hamburger-menu{
+    min-height: 7vh; 
+  }
+  
+  .Certification-main {
+    min-height: 88vh; 
+   }
+  
+  .Certification-left{
+    /* margin: auto;     */
+    display: flex;
+  }
+  
+  .Certification-right{
+    margin: auto;    
+    display: block;
+  }
+  
+  .Certification-footer {
+    min-height: 5vh; 
+  }  
+  
+  

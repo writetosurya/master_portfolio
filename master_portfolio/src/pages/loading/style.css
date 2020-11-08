@@ -1,0 +1,15 @@
+.Loading-header {
+    background-color: #000000;
+    background-image: url('../../assets/img/foad_logo.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }

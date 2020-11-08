@@ -1,0 +1,23 @@
+  .home-right{
+    height: 100%;
+  }
+
+  .home-right-main{
+    height: 100%;
+    padding-top: 15%;
+  }
+
+  .home-right-main-img{
+      height: 45vh;
+      margin: auto;    
+      display: block;
+  }
+
+  .home-right-footer{
+     width: 100%;
+  }
+
+  .home-right-title {
+    text-align: center;
+    margin: auto;
+  }
