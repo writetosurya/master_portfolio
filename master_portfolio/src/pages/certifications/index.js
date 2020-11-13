@@ -31,10 +31,6 @@ class Certification extends React.Component {
           <meta name="description" content="Surya Teja Tanuku | Certification - Forensic Specialist | Full Stack Developer | AWS Devops Consultant" />
         </Helmet>
         <Animate to="1" from="0" attributeName="opacity">
-        <Particles
-            params={particles}
-            className="particle"
-          />
           <Container className="Certification-header" fluid={true}>
             <Row className="Hamburger-menu">
               <HamburgerMenu />
