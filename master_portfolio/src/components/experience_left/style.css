@@ -1,43 +1,75 @@
-
-.numbered-heading{
-    font-size: xx-large;
+.numbered-heading {
+	font-size: xx-large;
 }
 
-/* .justify-content-md-center{
-margin-left: 1%;
-} */
-    /* .section__title {
-        -ms-flex-negative: 0;
-        flex-shrink: 0;
-        width: 200px;
-        margin-right: 70px;
-        color: #007bff;
-        text-transform: uppercase;
-        text-align: right;
-        font-weight: 700;
-        letter-spacing: 2px;
-        /* margin-right: 2%; */
-        .section__title {
-            -ms-flex-negative: 0;
-            flex-shrink: 0;
-            color: chocolate;
-            text-transform: uppercase;
-            font-weight: 700;
-            letter-spacing: 2px;
-            /* margin-right: 2%; */
-        }
+.body {
+	background-color: black;
+	margin: 0%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
 
-        .section__desig{
-            font-weight: 300;
-        }
-        .section__duration{
-            font-weight: 300;
-        }
+.container {
+	width: 90%;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+	grid-gap: 20px;
+}
+
+
+/* color: "chocolate", font-size: "19px", text-align: "center", margin-top: "10px" */
+
+.box1_exp {
+	color: white;
+    margin-top: 10px;
+    font-family: monospace;
+}
+
+.box {
+	height: 50%;
+	border: 1px solid black;
+	position: relative;
+	text-align: center;
+}
+
+.box_23 {
+	height: 50%;
+	border: 1px solid black;
+	position: relative;
+	font-size: "90%";
+}
+
+.box2_list {
+	margin-left: "30px";
+	text-align: "left";
+	margin-top: "10px";
+	color: "white";
+	font-family: "monospace";
+	padding-left: 6%;
+	font-size: small;
+	padding-top: 2%;
+}
+
+.box2_comp {
+	color: white;
+	margin-top: 10px;
+}
+
+.section__desig {
+	font-weight: 300;
+}
+
+.section__duration {
+	font-weight: 300;
+}
+
 .sec__middle {
-    padding-right:2%;
+	padding-right: 2%;
 }
 
-
-    .table-bordered td, .table-bordered th {
-        border: 1px solid transparent;
-    }
+.table-bordered td,
+.table-bordered th {
+	border: 1px solid transparent;
+}
