@@ -1,0 +1,15 @@
+{
+    "RDMS": [
+        "MemSQL",
+        "Postgres",
+        "Redis"
+    ],
+    "NoSQL": [
+        "Mongo",
+        "Firebase"
+    ],
+    "Message Queues": [
+        "Amazon MQ",
+        "SQS"
+    ]
+}

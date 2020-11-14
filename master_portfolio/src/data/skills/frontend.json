@@ -1,0 +1,20 @@
+{
+    "Basics": [
+        "HTML",
+        "CSS",
+        "Javascript"
+    ],
+    "Frameworks": [
+        "React",
+        "Angular",
+        "Flask"
+    ],
+    "Libraries": [
+        "Bootstrap",
+        "JQuery",
+        "D3.js",
+        "Leaflet",
+        "Google Maps",
+        "OSRM"
+    ]
+}

@@ -1,43 +1,36 @@
-
-.numbered-heading{
-    font-size: xx-large;
-}
-
-/* .justify-content-md-center{
-margin-left: 1%;
-} */
-    /* .section__title {
-        -ms-flex-negative: 0;
-        flex-shrink: 0;
-        width: 200px;
-        margin-right: 70px;
-        color: #007bff;
-        text-transform: uppercase;
-        text-align: right;
-        font-weight: 700;
-        letter-spacing: 2px;
-        /* margin-right: 2%; */
-        .section__title {
-            -ms-flex-negative: 0;
-            flex-shrink: 0;
-            color: chocolate;
-            text-transform: uppercase;
-            font-weight: 700;
-            letter-spacing: 2px;
-            /* margin-right: 2%; */
-        }
-
-        .section__desig{
-            font-weight: 300;
-        }
-        .section__duration{
-            font-weight: 300;
-        }
-.sec__middle {
-    padding-right:2%;
-}
-
-
-    .table-bordered td, .table-bordered th {
-        border: 1px solid transparent;
+        .body {
+        background-color: black;
+        margin: 0%;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
+    
+    .container {
+        width: 90%;
+        display: grid;
+        grid-template-columns: 200px 200px 200px 200px 200px;
+        grid-gap: 10px;
+    }
+    
+    .skillbox {
+        height: 50%;
+        border: 1px solid white;
+        position: relative;
+        text-align: center;
+    }
+    
+    .skillbox_exp {
+        padding-top: 3px;
+        color: coral;
+        font-size: 15px;
+        font-family: monospace;
+        letter-spacing: 3px;
+    }
+
+    p:hover {
+        color: white;
+        text-decoration: none;
+      }    
+    

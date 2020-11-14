@@ -24,5 +24,16 @@
   .Certification-footer {
     min-height: 5vh; 
   }  
+
+  .exp_res {
+    color: coral;
+    text-decoration:none;
+  }
+  
+  a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
   
   

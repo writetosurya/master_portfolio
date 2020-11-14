@@ -1,28 +1,36 @@
 .Experience-header {
-    background-color:#090909;
-    color: white;
-  }
-  
-  .Hamburger-menu{
-    min-height: 7vh; 
-  }
-  
-  .Experience-main {
-    min-height: 88vh; 
-   }
-  
-  .Experience-left{
-    /* margin: auto;     */
-    display: flex;
-  }
-  
-  .Experience-right{
-    margin: auto;    
-    display: block;
-  }
-  
-  .Experience-footer {
-    min-height: 5vh; 
-  }  
-  
-  
+  background-color:#090909;
+  color: white;
+}
+
+.Hamburger-menu{
+  min-height: 7vh; 
+}
+
+.exp_res {
+  color: coral;
+  text-decoration:none;
+}
+
+a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.Experience-main {
+  min-height: 88vh; 
+ }
+
+.Experience-left{
+  /* margin: auto;     */
+  display: flex;
+}
+
+.Experience-right{
+  margin: auto;    
+  display: block;
+}
+
+.Experience-footer {
+  min-height: 5vh; 
+}

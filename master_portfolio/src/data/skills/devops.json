@@ -1,0 +1,26 @@
+{
+    "Cloud Computing": [
+        "Amazon Web Services",
+        "Azure Devops",
+        "Linux Dev"
+    ],
+    "Configuration Management": [
+        "Ansible"
+    ],
+    "Infrastructure Management": [
+        "Cloud Formation",
+        "Terraform"
+    ],
+    "Orchestration": [
+        "Docker",
+        "K8s (Exposure)"
+    ],
+    "Monitoring Tool": [
+        "ELK"
+    ],
+    "Build Automation Tool": [
+        "Jenkins",
+        "Grunt",
+        "Git (GVCS)"
+    ]
+}

@@ -20,7 +20,7 @@ export default function Email_Form() {
 
     return (
         <div>
-            <div className="container">
+            <div className="cont_container">
                 <h1 className="p-heading1">Get In Touch !</h1>
                 <form onSubmit={sendEmail}>
                     <div className="row pt-5 mx-auto">
