@@ -35,13 +35,18 @@ class Experience extends React.Component {
             <Row className="Hamburger-menu">
               <HamburgerMenu />
             </Row>
+            <p style={{ color: "chocolate", fontSize: "19px", textAlign: "center", marginBottom: '14px' }}><strong># Where I’ve Worked</strong></p>
+            <hr style={{
+              color: '#fdf6f6',
+              backgroundColor: '#fdf6f6',
+              height: 2,
+              width: '200px',
+              borderColor: '#fdf6f6',
+              marginTop: '0.10px'
+            }} />
+            <p style={{ color: "chocolate", fontSize: "19px", textAlign: "center", marginTop: "10px" }}><a className="exp_res" href="https://rb.gy/oegcny" target="_blank"><strong>GRAB A PDF OF MY FULL RESUME</strong></a></p>
             <Row className="Experience-main">
-              {/* <Col className="Experience-left"> */}
-                <Experience_Left />
-              {/* </Col> */}
-              {/* <Col xl={6} className="Experience-right">
-                <EmailForm />
-              </Col> */}
+              <Experience_Left />
             </Row>
             <Row className="Experience-footer">
               <Footer />
