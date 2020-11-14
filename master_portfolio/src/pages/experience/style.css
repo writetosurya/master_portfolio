@@ -2,11 +2,21 @@
     background-color:#090909;
     color: white;
   }
-  
+
   .Hamburger-menu{
     min-height: 7vh; 
   }
+
+  .exp_res {
+    color: coral;
+    text-decoration:none;
+  }
   
+  a:hover {
+    color: white;
+    text-decoration: none;
+  }
+
   .Experience-main {
     min-height: 88vh; 
    }
