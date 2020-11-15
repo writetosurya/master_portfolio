@@ -35,7 +35,7 @@ class Certification extends React.Component {
             <Row className="Hamburger-menu">
               <HamburgerMenu />
             </Row>
-            <p style={{ color: "chocolate", fontSize: "19px", textAlign: "center", marginBottom: '14px' }}><strong># Where I’ve Worked</strong></p>
+            <p style={{ color: "chocolate", fontSize: "19px", textAlign: "center", marginBottom: '14px' }}><strong># Certifications Breakdown</strong></p>
             <hr style={{
               color: '#fdf6f6',
               backgroundColor: '#fdf6f6',
@@ -44,10 +44,11 @@ class Certification extends React.Component {
               borderColor: '#fdf6f6',
               marginTop: '0.10px'
             }} />
-            <p style={{ color: "chocolate", fontSize: "19px", textAlign: "center", marginTop: "10px" }}><a className="exp_res" href="https://rb.gy/oegcny" target="_blank"><strong>GRAB A PDF OF MY FULL RESUME</strong></a></p>
-          
+            <p style={{ color: "chocolate", fontSize: "19px", textAlign: "center", marginTop: "10px" }}><a className="exp_res"><strong>ACHIEVEMENTS, CERTIFICATIONS, AWARD LETTERS AND SOME COOL STUFF THAT I HAVE DONE !
+</strong></a></p>
+
             <Row className="Certification-main">
-                <Certs />
+              <Certs />
             </Row>
             <Row className="Certification-footer">
               <Footer />

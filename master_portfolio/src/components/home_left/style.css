@@ -50,3 +50,8 @@
     font-size: initial;
     font-family: monospace;
 }
+
+.home-left container {
+    margin-top: 18%;
+    background: rgba(0,0,0,.075);
+}

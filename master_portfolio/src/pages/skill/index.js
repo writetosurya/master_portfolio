@@ -31,6 +31,10 @@ class Skill extends React.Component {
           <meta name="description" content="Surya Teja Tanuku | Skill - Forensic Specialist | Full Stack Developer | AWS Devops Consultant" />
         </Helmet>
         <Animate to="1" from="0" attributeName="opacity">
+        <Particles
+            params={particles}
+            className="particle"
+          />
           <Container className="Skill-header" fluid={true}>
             <Row className="Hamburger-menu">
               <HamburgerMenu />
