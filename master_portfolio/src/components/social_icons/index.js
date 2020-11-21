@@ -27,7 +27,7 @@ function SocialIcons() {
       <a href="https://www.linkedin.com/in/suryatejatanuku/" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon className="linkedin" icon={faLinkedin} />
       </a>
-      <a href="https://goo.gl/maps/Ztr5pDqosieFvk2GA" target="_blank" rel="noopener noreferrer">
+      <a href="https://goo.gl/maps/Zwgtyxw4SHSBWNYj8" target="_blank" rel="noopener noreferrer">
         <FontAwesomeIcon className="location" icon={faMarkdown} />
       </a>
     </Col>
