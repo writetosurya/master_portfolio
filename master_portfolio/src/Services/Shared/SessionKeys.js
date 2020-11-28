@@ -1,0 +1,4 @@
+export default {
+    USERLANGUAGE:'USER_LANGUAGE',
+    APP_CONFIG: 'APP_CONFIG'
+};
