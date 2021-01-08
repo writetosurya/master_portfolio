@@ -12,7 +12,7 @@
 }
 
 .exp_container {
-	width: 90%;
+	width: 108%;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 	grid-gap: 20px;

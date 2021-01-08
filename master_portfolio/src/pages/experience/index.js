@@ -48,7 +48,9 @@ class Experience extends React.Component {
               borderColor: '#fdf6f6',
               marginTop: '0.10px'
             }} />
-            <p style={{ color: "chocolate", fontSize: "19px", textAlign: "center", marginTop: "10px" }}><a className="exp_res" href="https://rb.gy/oegcny" target="_blank"><strong>GRAB A PDF OF MY FULL RESUME</strong></a></p>
+            <p style={{ color: "chocolate", fontSize: "19px", textAlign: "center", marginTop: "10px" }}><a className="exp_res" 
+            href="https://drive.google.com/file/d/1ge7bWWlGe4pWvgARh4VcmhpFAt7oNM3j/view?usp=sharing" 
+            target="_blank"><strong>GRAB A PDF OF MY FULL RESUME</strong></a></p>
             <Row className="Experience-main">
               <Experience_Left />
             </Row>
